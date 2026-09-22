@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/ClassLibrary1/BlaisePascal.Domain.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/BlaisePascal.Test/BlaisePascal.Test.csproj" Id="b8a419ad-fcd6-466f-95d6-b05036a870ab" />
+  </Folder>
+</Solution>
