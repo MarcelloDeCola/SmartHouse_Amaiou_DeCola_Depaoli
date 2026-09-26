@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary1
+﻿namespace BlaisePascal.Domain
 {
     public class Class1
     {

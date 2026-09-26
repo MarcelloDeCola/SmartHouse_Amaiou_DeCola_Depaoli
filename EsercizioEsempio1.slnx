@@ -1,7 +1,8 @@
 <Solution>
   <Folder Name="/doc/" />
   <Folder Name="/src/">
-    <Project Path="src/ClassLibrary1/BlaisePascal.Domain.csproj" />
+    <Project Path="src/BlaisePascal.Domain/BlaisePascal.Domain.csproj" Id="4c073b4f-763b-4282-be41-a9de5a82680b" />
+    <Project Path="src/BlaisePascal.EsercizioDiEsempio1.Console/BlaisePascal.EsercizioDiEsempio1.Console.csproj" Id="57d8c6b4-1af2-4b00-9f0b-20265fac8228" />
   </Folder>
   <Folder Name="/test/">
     <Project Path="test/BlaisePascal.Test/BlaisePascal.Test.csproj" Id="b8a419ad-fcd6-466f-95d6-b05036a870ab" />
