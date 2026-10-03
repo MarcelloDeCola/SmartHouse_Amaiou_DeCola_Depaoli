@@ -12,19 +12,19 @@ public class Program
         }While(name=”” || name.isBlankSpace());
 
 Do{
-            Console.WriteLine("Insert the amount of books you'd like to order");
+            Console.WriteLine("Insert how many do books you like to order");
             Int bookAmount = int.Parse(Console.ReadLine());
             If(bookAmount<0) Console.WriteLine(Error: the amount cannot be negative);
         }While(bookAmount<0);
 
 Do{
-            Console.WriteLine("Insert the price of a single book");
+            Console.WriteLine("Insert the price of only one book");
             Decimal bookPrice = decimal.Parse(Console.ReadLine());
             If(bookPrice<0) Console.WriteLine(Error: the price cannot be negative);
         }While(bookPrice<0);
 
 Do{
-            Console.WriteLine("Are you a student? (True/false)");
+            Console.WriteLine("Are yo a student? (True/false)");
             bool student=Console.ReadLine());
             If(student!=true || student=!false) Console.WriteLine(Error: answer invalid, insert true or false);
         }While(student!=true || student=!false);
